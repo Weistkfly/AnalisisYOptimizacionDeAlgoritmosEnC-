@@ -1,0 +1,16 @@
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\listadoDeLibros.exe
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\listadoDeLibros.deps.json
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\listadoDeLibros.runtimeconfig.json
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\listadoDeLibros.runtimeconfig.dev.json
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\listadoDeLibros.dll
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\ref\listadoDeLibros.dll
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\bin\Debug\net5.0\listadoDeLibros.pdb
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.AssemblyInfoInputs.cache
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.AssemblyInfo.cs
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.dll
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\ref\listadoDeLibros.dll
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.pdb
+C:\Users\Weistkfly\source\repos\listadoDeLibros\listadoDeLibros\obj\Debug\net5.0\listadoDeLibros.genruntimeconfig.cache

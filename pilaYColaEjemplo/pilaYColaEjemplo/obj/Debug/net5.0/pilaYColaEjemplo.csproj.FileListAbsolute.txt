@@ -1,0 +1,16 @@
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\pilaYColaEjemplo.exe
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\pilaYColaEjemplo.deps.json
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\pilaYColaEjemplo.runtimeconfig.json
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\pilaYColaEjemplo.runtimeconfig.dev.json
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\pilaYColaEjemplo.dll
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\ref\pilaYColaEjemplo.dll
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\bin\Debug\net5.0\pilaYColaEjemplo.pdb
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.AssemblyInfoInputs.cache
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.AssemblyInfo.cs
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.dll
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\ref\pilaYColaEjemplo.dll
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.pdb
+C:\Users\Weistkfly\source\repos\pilaYColaEjemplo\pilaYColaEjemplo\obj\Debug\net5.0\pilaYColaEjemplo.genruntimeconfig.cache

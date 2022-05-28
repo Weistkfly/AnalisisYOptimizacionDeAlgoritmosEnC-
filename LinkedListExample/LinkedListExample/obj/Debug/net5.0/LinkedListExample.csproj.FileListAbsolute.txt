@@ -1,0 +1,16 @@
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\LinkedListExample.exe
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\LinkedListExample.deps.json
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\LinkedListExample.runtimeconfig.json
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\LinkedListExample.runtimeconfig.dev.json
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\LinkedListExample.dll
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\ref\LinkedListExample.dll
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net5.0\LinkedListExample.pdb
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.AssemblyInfoInputs.cache
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.AssemblyInfo.cs
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.dll
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\ref\LinkedListExample.dll
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.pdb
+C:\Users\Weistkfly\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net5.0\LinkedListExample.genruntimeconfig.cache

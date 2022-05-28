@@ -1,0 +1,16 @@
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ArrayClassLevel.exe
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ArrayClassLevel.deps.json
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ArrayClassLevel.runtimeconfig.json
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ArrayClassLevel.runtimeconfig.dev.json
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ArrayClassLevel.dll
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ref\ArrayClassLevel.dll
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\bin\Debug\net5.0\ArrayClassLevel.pdb
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.AssemblyInfoInputs.cache
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.AssemblyInfo.cs
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.dll
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ref\ArrayClassLevel.dll
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.pdb
+C:\Users\Weistkfly\source\repos\ArrayClassLevel\ArrayClassLevel\obj\Debug\net5.0\ArrayClassLevel.genruntimeconfig.cache

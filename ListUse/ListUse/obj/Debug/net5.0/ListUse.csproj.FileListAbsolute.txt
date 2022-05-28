@@ -1,0 +1,16 @@
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ListUse.exe
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ListUse.deps.json
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ListUse.runtimeconfig.json
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ListUse.runtimeconfig.dev.json
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ListUse.dll
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ref\ListUse.dll
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\bin\Debug\net5.0\ListUse.pdb
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.csproj.AssemblyReference.cache
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.AssemblyInfoInputs.cache
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.AssemblyInfo.cs
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.csproj.CoreCompileInputs.cache
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.dll
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ref\ListUse.dll
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.pdb
+C:\Users\Weistkfly\source\repos\ListUse\ListUse\obj\Debug\net5.0\ListUse.genruntimeconfig.cache
