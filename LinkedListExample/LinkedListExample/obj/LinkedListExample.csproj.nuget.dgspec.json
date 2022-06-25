@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Weistkfly\\source\\repos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj": {}
+    "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Weistkfly\\source\\repos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj": {
+    "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Weistkfly\\source\\repos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj",
+        "projectUniqueName": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj",
         "projectName": "LinkedListExample",
-        "projectPath": "C:\\Users\\Weistkfly\\source\\repos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj",
+        "projectPath": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\LinkedListExample\\LinkedListExample\\LinkedListExample.csproj",
         "packagesPath": "C:\\Users\\Weistkfly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Weistkfly\\source\\repos\\LinkedListExample\\LinkedListExample\\obj\\",
+        "outputPath": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\LinkedListExample\\LinkedListExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Weistkfly\\AppData\\Roaming\\NuGet\\NuGet.Config",

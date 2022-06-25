@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Weistkfly\\source\\repos\\ListUse\\ListUse\\ListUse.csproj",
+      "projectUniqueName": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ListUse\\ListUse\\ListUse.csproj",
       "projectName": "ListUse",
-      "projectPath": "C:\\Users\\Weistkfly\\source\\repos\\ListUse\\ListUse\\ListUse.csproj",
+      "projectPath": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ListUse\\ListUse\\ListUse.csproj",
       "packagesPath": "C:\\Users\\Weistkfly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Weistkfly\\source\\repos\\ListUse\\ListUse\\obj\\",
+      "outputPath": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ListUse\\ListUse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Weistkfly\\AppData\\Roaming\\NuGet\\NuGet.Config",

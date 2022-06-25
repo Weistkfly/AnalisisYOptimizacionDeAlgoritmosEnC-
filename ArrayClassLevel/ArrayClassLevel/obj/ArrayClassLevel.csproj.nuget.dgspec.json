@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Weistkfly\\source\\repos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj": {}
+    "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Weistkfly\\source\\repos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj": {
+    "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Weistkfly\\source\\repos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj",
+        "projectUniqueName": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj",
         "projectName": "ArrayClassLevel",
-        "projectPath": "C:\\Users\\Weistkfly\\source\\repos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj",
+        "projectPath": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ArrayClassLevel\\ArrayClassLevel\\ArrayClassLevel.csproj",
         "packagesPath": "C:\\Users\\Weistkfly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Weistkfly\\source\\repos\\ArrayClassLevel\\ArrayClassLevel\\obj\\",
+        "outputPath": "C:\\Users\\Weistkfly\\OneDrive\\Desktop\\Courses\\UCE\\9no\\Analisis y optimizacion de algoritmos\\ArrayClassLevel\\ArrayClassLevel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Weistkfly\\AppData\\Roaming\\NuGet\\NuGet.Config",
